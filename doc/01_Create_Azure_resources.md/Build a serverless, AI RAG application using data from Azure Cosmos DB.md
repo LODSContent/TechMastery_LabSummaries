@@ -1,0 +1,38 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
+# Build a serverless, AI RAG application using data from Azure Cosmos DB
+
+**ID** 194866  
+**Number:** 45-404-29  
+**Name:** Build a serverless, AI RAG application using data from Azure Cosmos DB
+**CloudSubscriptionPoolName:** TechMastery - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+
+---
+
+## Exercise Summary
+
+### Exercise 1: Setup and run the starter web application
+- Authenticated to Azure and granted access to required services.  
+- Verified build and execution of a starter AI assistant app.  
+- Confirmed chat UI displayed placeholder AI response and app dashboard loaded.  
+
+### Exercise 2: Implement the Semantic Kernel
+- Integrated Semantic Kernel to replace placeholders with real GPT outputs.  
+- Added OpenAI chat completion and Azure Cosmos DB connector.  
+- Validated application returned live AI responses to user queries.  
+
+### Exercise 3: Enhance with vector search
+- Configured DiskANN and Cosmos DB vector search.  
+- Connected semantic caching for efficient responses.  
+- Verified accurate retrieval from CWBC product data.  
+
+### Exercise 4: Scale and deploy the RAG application
+- Packaged the solution into serverless components.  
+- Deployed on Azure with .NET Aspire orchestration.  
+- Validated scalability and monitoring via dashboard.

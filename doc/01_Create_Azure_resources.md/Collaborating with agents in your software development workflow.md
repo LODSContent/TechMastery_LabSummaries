@@ -1,0 +1,30 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
+# TechLab: Collaborating with agents in your software development workflow
+
+**ID** 186797  
+**Number:** LAB310  
+**Name:** TechLab: Collaborating with agents in your software development workflow
+**CloudSubscriptionPoolName:** Ignite (CSS) - Prod  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+
+---
+
+## Exercise Summary
+
+### Exercise 1: GitHub provisioning and agent setup
+- Connected lab account to GitHub org.  
+- Provisioned Copilot addon access automatically.  
+
+### Exercise 2: Explore agent capabilities
+- Used GitHub Copilot for code suggestions.  
+- Integrated agent support into developer workflow.  
+
+### Exercise 3: Collaboration workflow
+- Simulated multi-developer collaboration using agents.  
+- Validated productivity improvements with AI assistance.

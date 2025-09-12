@@ -1,0 +1,34 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
+# TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc
+
+**ID** 186373  
+**Number:** TechConnect Lab315  
+**Name:** TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+
+---
+
+## Exercise Summary
+
+### Exercise 1: Prepare for Arc onboarding
+- Registered Azure resource providers.  
+- Created Log Analytics workspace and resource group.  
+
+### Exercise 2: Onboard server to Azure Arc
+- Ran onboarding script to connect Windows Server VM.  
+- Verified Arc agent status as connected.  
+
+### Exercise 3: Azure Migrate Assessment & Business Case
+- Accessed Azure Migrate portal.  
+- Generated business case for migration using Arc integration.  
+
+### Exercise 4: Manage server with Azure Arc
+- Enabled Windows Server management extensions.  
+- Validated Arc-enabled capabilities in Azure Portal.  

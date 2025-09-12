@@ -1,0 +1,33 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
+# Migrate SQL Data using Azure SQL Managed Instance
+
+**ID** 194842  
+**Number:** 45-404-29  
+**Name:** Migrate SQL Data using Azure SQL Managed Instance
+**CloudSubscriptionPoolName:** 45-404-29: Managed Instance Migration  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+
+---
+
+## Exercise Summary
+
+### Exercise 1: Prepare environment and create SQL Managed Instance
+- Created Azure SQL Managed Instance in same VNET as SQL VM.  
+- Verified VM deployment and configured SQL Server authentication.  
+- Ensured network connectivity between VM and Managed Instance.  
+
+### Exercise 2: Replicate data between SQL Server and Managed Instance
+- Configured Managed Instance link for replication.  
+- Verified replication status via SQL Server Management Studio (SSMS).  
+- Confirmed data consistency between source and target.  
+
+### Exercise 3: Failover and recovery
+- Performed planned failover to Managed Instance.  
+- Validated application connectivity.  
+- Tested failback to on-prem VM for disaster recovery scenario.
