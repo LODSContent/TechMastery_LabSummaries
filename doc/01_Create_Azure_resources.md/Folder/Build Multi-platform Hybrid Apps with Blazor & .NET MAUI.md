@@ -1,0 +1,36 @@
+# Build Multi-platform Hybrid Apps with Blazor & .NET MAUI
+
+**ID** 191943  
+**Number:** LAB305  
+**Name:** Build Multi-platform Hybrid Apps with Blazor & .NET MAUI
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+
+---
+
+## Exercise Summary
+
+### Exercise 0: Lab setup and introduction
+- Logged into VM and reviewed lab objectives.  
+- Connected to Blazor & .NET MAUI starter repo.  
+
+### Exercise 1: Overview
+- Explored architecture of Blazor Hybrid apps.  
+- Reviewed sample solution structure.  
+
+### Exercise 2: Data
+- Integrated backend data services.  
+- Bound UI components to shared data models.  
+- Validated real-time updates across platforms.  
+
+### Exercise 3: UI
+- Customized layouts with XAML and Blazor components.  
+- Implemented navigation and theming.  
+- Validated consistency across desktop and mobile.  
+
+### Exercise 4: Platform integration
+- Added device-specific features (e.g., sensors, storage).  
+- Ensured cross-platform compatibility.  
+- Validated hybrid functionality end-to-end.
