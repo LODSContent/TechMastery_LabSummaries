@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Planning and tracking your work with GitHub Projects and GitHub Issues
 
 **ID** 191949  

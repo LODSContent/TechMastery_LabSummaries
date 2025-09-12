@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build an Agentic App with PostgreSQL, GraphRAG, and Semantic Kernel
 
 **ID** 191963  

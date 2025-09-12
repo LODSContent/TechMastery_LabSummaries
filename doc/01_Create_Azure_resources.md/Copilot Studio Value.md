@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Copilot Studio Value
 
 **ID** 197193  

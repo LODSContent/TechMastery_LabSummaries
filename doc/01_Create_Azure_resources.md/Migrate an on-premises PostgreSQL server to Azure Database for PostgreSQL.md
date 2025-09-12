@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL
 
 **ID** 194868  

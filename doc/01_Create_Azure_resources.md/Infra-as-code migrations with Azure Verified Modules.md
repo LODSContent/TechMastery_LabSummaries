@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Infra-as-code migrations with Azure Verified Modules
 
 **ID** 186387  

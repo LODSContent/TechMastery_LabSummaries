@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Using Copilots with Various Fabric Workloads
 
 **ID** 195749  

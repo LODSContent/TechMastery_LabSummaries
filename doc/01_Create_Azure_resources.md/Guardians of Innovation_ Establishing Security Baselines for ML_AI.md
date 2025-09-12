@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Guardians of Innovation: Establishing Security Baselines for ML/AI
 
 **ID** 195769  

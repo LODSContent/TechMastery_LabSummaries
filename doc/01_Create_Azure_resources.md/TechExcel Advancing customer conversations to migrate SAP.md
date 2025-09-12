@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechExcel Advancing customer conversations to migrate SAP
 
 **ID** 187659  

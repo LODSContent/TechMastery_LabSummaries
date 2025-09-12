@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build new AI applications with Azure SQL Database
 
 **ID** 191944  

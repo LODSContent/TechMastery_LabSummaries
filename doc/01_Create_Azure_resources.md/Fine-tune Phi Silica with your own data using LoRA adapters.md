@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Fine-tune Phi Silica with your own data using LoRA adapters
 
 **ID** 191965  

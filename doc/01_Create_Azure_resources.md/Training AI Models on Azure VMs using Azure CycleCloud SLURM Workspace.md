@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Training AI Models on Azure VMs using Azure CycleCloud SLURM Workspace
 
 **ID** 196080  

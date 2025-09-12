@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Configure Teams Direct Routing
 
 **ID** 165887  

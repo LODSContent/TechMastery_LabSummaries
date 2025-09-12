@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build custom engine agents using Microsoft 365 Agents SDK
 
 **ID** 191950  

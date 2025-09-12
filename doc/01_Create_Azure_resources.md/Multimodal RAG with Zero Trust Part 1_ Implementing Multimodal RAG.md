@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Multimodal RAG with Zero Trust Part 1: Implementing Multimodal RAG
 
 **ID** 196083  

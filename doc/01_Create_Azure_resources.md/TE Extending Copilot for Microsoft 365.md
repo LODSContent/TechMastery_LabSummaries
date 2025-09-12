@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TE Extending Copilot for Microsoft 365
 
 **ID** 176094  

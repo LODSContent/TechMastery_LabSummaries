@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Collaborating with agents in your software development workflow
 
 **ID** 186797  

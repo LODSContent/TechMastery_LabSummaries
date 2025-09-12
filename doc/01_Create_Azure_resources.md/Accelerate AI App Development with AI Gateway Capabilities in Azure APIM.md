@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Accelerate AI App Development with AI Gateway Capabilities in Azure APIM
 
 **ID** 191956  

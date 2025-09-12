@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Agentic AI Inferencing with Azure Container Apps
 
 **ID** 191959  

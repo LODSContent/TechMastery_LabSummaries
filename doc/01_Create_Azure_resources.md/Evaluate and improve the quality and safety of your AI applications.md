@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Evaluate and improve the quality and safety of your AI applications
 
 **ID** 191954  

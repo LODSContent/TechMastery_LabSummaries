@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc
 
 **ID** 186373  

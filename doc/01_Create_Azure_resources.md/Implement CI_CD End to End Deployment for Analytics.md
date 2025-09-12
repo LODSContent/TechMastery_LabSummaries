@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Implement CI/CD End to End Deployment for Analytics
 
 **ID** 195746  

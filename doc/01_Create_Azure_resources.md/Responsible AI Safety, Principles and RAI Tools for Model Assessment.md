@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Responsible AI Safety, Principles and RAI Tools for Model Assessment
 
 **ID** 195748  

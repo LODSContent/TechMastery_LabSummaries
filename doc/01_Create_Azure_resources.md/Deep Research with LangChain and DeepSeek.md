@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Deep Research with LangChain and DeepSeek
 
 **ID** 191952  

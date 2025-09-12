@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Building Microsoft Fabric Realtime Analytics
 
 **ID** 195745  

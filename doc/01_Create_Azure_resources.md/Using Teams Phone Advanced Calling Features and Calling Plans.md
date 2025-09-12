@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Using Teams Phone Advanced Calling Features and Calling Plans
 
 **ID** 165886  

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Streamlining Kubernetes for developers with AKS Automatic
 
 **ID** 191960  

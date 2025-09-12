@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Building Intelligent Applications with Graph-Based RAG
 
 **ID** 195743  

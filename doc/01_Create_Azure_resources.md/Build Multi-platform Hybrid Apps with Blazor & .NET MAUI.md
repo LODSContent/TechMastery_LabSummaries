@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build Multi-platform Hybrid Apps with Blazor & .NET MAUI
 
 **ID** 191943  

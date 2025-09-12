@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Custom Engine Agents-Build Agents for Microsoft 365 Copilot
 
 **ID** 186550  

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Secure your data with Microsoft Purview
 
 **ID** 185893  

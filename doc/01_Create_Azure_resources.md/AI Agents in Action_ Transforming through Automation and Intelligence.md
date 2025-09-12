@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: AI Agents in Action: Transforming through Automation and Intelligence
 
 **ID** 196082  

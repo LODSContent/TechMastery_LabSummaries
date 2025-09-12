@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Understanding Microsoft Purview Insider Risk Management
 
 **ID** 168133  

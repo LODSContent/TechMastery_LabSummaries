@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Migrate SQL Data using Azure SQL Managed Instance
 
 **ID** 194842  

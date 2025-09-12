@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Modernize your Open Source Linux Workloads Prod
 
 **ID** 186388  

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Build Scalable AI Apps with AKS & APIM
 
 **ID** 195773  

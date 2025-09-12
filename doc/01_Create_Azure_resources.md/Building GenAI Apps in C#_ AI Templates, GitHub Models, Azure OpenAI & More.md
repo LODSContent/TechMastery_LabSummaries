@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Building GenAI Apps in C#: AI Templates, GitHub Models, Azure OpenAI & More
 
 **ID** 191938  

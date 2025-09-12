@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Get real with Real-Time Intelligence to transform data into action
 
 **ID** 191942  

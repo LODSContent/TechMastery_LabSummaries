@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Understanding Microsoft Purview Foundational Architecture
 
 **ID** 168136  

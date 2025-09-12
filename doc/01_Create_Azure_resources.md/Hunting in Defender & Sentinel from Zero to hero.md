@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Hunting in Defender & Sentinel from Zero to hero
 
 **ID** 186694  

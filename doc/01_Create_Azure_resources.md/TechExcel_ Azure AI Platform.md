@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechExcel: Azure AI Platform
 
 **ID** 176412  

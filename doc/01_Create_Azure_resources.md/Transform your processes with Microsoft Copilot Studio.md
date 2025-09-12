@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Transform your processes with Microsoft Copilot Studio
 
 **ID** 186383  

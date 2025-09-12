@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # AI security testing with PyRIT
 
 **ID** 191948  

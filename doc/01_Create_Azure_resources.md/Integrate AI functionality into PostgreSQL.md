@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Integrate AI functionality into PostgreSQL
 
 **ID** 194871  

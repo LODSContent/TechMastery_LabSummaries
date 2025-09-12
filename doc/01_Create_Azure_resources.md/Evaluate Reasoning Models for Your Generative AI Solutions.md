@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Evaluate Reasoning Models for Your Generative AI Solutions
 
 **ID** 191953  

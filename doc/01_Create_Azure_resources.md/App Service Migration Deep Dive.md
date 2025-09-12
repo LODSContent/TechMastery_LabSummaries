@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: App Service Migration Deep Dive
 
 **ID** 196079  

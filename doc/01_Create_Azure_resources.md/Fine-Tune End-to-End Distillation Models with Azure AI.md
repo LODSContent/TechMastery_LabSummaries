@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Fine-Tune End-to-End Distillation Models with Azure AI
 
 **ID** 191951  

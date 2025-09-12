@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Understanding Medallion Architecture in Fabric with Lakehouse + Warehouse
 
 **ID** 196081  

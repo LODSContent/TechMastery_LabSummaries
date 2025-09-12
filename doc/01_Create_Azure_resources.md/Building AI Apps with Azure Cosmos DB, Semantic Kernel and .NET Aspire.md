@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Building AI Apps with Azure Cosmos DB, Semantic Kernel and .NET Aspire
 
 **ID** 196075  

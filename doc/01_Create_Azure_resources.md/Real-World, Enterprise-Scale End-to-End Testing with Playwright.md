@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Real-World, Enterprise-Scale End-to-End Testing with Playwright
 
 **ID** 191937  

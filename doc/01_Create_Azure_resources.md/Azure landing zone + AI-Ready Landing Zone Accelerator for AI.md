@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Azure landing zone + AI-Ready Landing Zone Accelerator for AI
 
 **ID** 187932  

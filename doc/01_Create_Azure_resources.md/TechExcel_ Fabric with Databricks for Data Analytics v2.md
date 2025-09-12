@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechExcel: Fabric with Databricks for Data Analytics v2
 
 **ID** 170808  

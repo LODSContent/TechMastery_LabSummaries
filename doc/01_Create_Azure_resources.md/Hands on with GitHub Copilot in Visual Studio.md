@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Hands on with GitHub Copilot in Visual Studio
 
 **ID** 191941  

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Mastering GitHub Copilot for AI Paired Programming
 
 **ID** 168478  

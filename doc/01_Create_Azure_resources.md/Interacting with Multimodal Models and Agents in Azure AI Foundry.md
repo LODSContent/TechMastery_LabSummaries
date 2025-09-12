@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Interacting with Multimodal Models and Agents in Azure AI Foundry
 
 **ID** 191940  

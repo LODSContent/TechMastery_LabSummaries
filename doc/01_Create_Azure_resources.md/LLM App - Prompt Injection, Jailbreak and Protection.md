@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: LLM App - Prompt Injection, Jailbreak and Protection
 
 **ID** 196086  

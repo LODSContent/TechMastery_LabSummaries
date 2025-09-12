@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Designing your own Agent with Copilot Studio
 
 **ID** 185898  

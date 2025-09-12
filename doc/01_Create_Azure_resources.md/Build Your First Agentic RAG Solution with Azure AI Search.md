@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build Your First Agentic RAG Solution with Azure AI Search
 
 **ID** 191955  

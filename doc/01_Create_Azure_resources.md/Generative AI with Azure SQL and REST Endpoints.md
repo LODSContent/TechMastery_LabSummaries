@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Generative AI with Azure SQL and REST Endpoints
 
 **ID** 195377  

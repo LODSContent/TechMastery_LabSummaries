@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Enable and Configure Defender for Storage
 
 **ID** 195753  

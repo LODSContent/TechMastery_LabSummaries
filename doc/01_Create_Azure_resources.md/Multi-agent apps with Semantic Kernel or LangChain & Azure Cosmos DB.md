@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Multi-agent apps with Semantic Kernel or LangChain & Azure Cosmos DB
 
 **ID** 191947  

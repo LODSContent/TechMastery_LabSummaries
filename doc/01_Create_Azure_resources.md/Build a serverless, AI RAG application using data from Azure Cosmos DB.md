@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build a serverless, AI RAG application using data from Azure Cosmos DB
 
 **ID** 194866  

@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # TechLab: Multimodal RAG with Zero Trust Part 2: Deploying Zero Trust Architecture
 
 **ID** 196084  

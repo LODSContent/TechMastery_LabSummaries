@@ -1,3 +1,8 @@
+---
+layout: default
+parent: 'Lab summaries'
+---
+
 # Build your code-first agent with Azure AI Foundry in Python
 
 **ID** 191949  
