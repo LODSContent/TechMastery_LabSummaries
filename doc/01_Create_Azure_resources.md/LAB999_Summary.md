@@ -1,7 +1,7 @@
 ---
 title: 'This is a lab'  
 layout: default
-nav_order: 71
+nav_order:
 parent: 'Lab summaries'
 --- 
 
