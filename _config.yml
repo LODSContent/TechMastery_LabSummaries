@@ -1,0 +1,24 @@
+title: Lab Summaries
+description: Use this page to quickly scan all labs at a glance. Each entry shows the lab summary, its exercises, and key metadata—duration, difficulty, tools, prerequisites, target students, owner, and last updated. Filter and sort to find the right lab fast, then jump into the details.
+theme: just-the-docs
+
+aux_links:
+  "Lab Summaries": 
+    - "https://github.com/LODSContent/TechMastery_LabSummaries"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
