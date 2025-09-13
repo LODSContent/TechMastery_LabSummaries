@@ -1,5 +1,5 @@
 ---
-title: 
+title: Test title
 layout: default
 nav_order:
 parent: 'Lab summaries'
