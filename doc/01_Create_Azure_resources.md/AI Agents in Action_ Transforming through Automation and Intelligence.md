@@ -1,5 +1,7 @@
 ---
+title: "TechLab: AI Agents in Action: Transforming through Automation and Intelligence"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

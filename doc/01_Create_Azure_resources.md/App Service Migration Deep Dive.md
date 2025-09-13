@@ -1,5 +1,7 @@
 ---
+title: "TechLab: App Service Migration Deep Dive"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

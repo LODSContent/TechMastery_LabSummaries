@@ -1,5 +1,7 @@
 ---
+title: "Deep Research with LangChain and DeepSeek"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

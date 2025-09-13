@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Understanding Microsoft Purview Foundational Architecture"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

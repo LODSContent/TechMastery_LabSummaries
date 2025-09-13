@@ -1,5 +1,7 @@
 ---
+title: "Deploying and Inferencing AI Applications on Kubernetes"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

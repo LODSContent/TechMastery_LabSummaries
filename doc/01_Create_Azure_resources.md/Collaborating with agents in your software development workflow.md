@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Collaborating with agents in your software development workflow"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "Modernize your Open Source Linux Workloads Prod"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

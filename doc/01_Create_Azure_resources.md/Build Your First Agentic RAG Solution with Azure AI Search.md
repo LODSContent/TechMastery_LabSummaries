@@ -1,5 +1,7 @@
 ---
+title: "Build Your First Agentic RAG Solution with Azure AI Search"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

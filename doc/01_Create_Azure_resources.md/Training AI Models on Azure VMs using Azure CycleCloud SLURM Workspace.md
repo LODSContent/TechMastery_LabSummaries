@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Training AI Models on Azure VMs using Azure CycleCloud SLURM Workspace"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Mastering GitHub Copilot for AI Paired Programming"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

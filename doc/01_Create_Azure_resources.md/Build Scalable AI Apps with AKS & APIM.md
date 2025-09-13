@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Build Scalable AI Apps with AKS & APIM"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

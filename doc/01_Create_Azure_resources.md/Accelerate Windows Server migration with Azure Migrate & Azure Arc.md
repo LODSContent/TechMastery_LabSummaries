@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "Real-World, Enterprise-Scale End-to-End Testing with Playwright"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Enable and Configure Defender for Cloud"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

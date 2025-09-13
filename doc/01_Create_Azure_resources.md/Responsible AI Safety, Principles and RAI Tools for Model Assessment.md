@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Responsible AI Safety, Principles and RAI Tools for Model Assessment"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

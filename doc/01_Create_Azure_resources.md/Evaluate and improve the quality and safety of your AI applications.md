@@ -1,5 +1,7 @@
 ---
+title: "Evaluate and improve the quality and safety of your AI applications"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

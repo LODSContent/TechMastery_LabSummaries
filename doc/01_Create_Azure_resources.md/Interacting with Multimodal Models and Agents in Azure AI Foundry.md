@@ -1,5 +1,7 @@
 ---
+title: "Interacting with Multimodal Models and Agents in Azure AI Foundry"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

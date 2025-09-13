@@ -1,5 +1,7 @@
 ---
+title: "Build Multi-platform Hybrid Apps with Blazor & .NET MAUI"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

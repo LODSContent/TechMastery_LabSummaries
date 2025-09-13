@@ -1,5 +1,7 @@
 ---
+title: "TechExcel: Azure AI Platform"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

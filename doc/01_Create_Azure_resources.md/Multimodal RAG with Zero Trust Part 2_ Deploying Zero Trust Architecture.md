@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Multimodal RAG with Zero Trust Part 2: Deploying Zero Trust Architecture"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

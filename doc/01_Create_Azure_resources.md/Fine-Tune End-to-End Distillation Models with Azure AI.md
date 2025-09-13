@@ -1,5 +1,7 @@
 ---
+title: "Fine-Tune End-to-End Distillation Models with Azure AI"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

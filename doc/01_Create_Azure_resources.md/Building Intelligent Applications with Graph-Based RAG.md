@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Building Intelligent Applications with Graph-Based RAG"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

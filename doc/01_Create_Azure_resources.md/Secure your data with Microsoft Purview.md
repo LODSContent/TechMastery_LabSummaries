@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Secure your data with Microsoft Purview"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

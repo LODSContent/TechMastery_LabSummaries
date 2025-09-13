@@ -1,5 +1,7 @@
 ---
+title: "Accelerate AI App Development with AI Gateway Capabilities in Azure APIM"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

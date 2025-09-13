@@ -1,5 +1,7 @@
 ---
+title: "Multi-agent apps with Semantic Kernel or LangChain & Azure Cosmos DB"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

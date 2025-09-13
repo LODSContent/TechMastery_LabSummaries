@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Implement CI/CD End to End Deployment for Analytics"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

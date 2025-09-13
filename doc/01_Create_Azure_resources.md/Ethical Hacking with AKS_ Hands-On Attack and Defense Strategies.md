@@ -1,5 +1,7 @@
 ---
+title: "Ethical Hacking with AKS: Hands-On Attack and Defense Strategies"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

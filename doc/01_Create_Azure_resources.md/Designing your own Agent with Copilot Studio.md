@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Designing your own Agent with Copilot Studio"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

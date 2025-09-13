@@ -1,5 +1,7 @@
 ---
+title: "Building GenAI Apps in C#: AI Templates, GitHub Models, Azure OpenAI & More"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

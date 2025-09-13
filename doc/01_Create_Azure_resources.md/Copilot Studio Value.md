@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Copilot Studio Value"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

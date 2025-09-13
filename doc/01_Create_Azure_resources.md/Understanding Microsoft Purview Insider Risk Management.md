@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Understanding Microsoft Purview Insider Risk Management"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

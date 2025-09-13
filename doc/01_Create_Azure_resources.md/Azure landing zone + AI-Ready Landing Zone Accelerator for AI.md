@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Azure landing zone + AI-Ready Landing Zone Accelerator for AI"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

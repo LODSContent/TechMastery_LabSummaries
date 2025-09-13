@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Configure Teams Direct Routing"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

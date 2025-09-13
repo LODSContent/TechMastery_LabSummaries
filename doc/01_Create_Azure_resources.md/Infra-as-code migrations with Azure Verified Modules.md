@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Infra-as-code migrations with Azure Verified Modules"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

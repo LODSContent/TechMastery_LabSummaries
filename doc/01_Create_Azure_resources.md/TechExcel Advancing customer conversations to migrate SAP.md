@@ -1,5 +1,7 @@
 ---
+title: "TechExcel Advancing customer conversations to migrate SAP"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

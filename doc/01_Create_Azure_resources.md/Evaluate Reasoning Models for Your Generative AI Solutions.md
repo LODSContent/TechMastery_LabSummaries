@@ -1,5 +1,7 @@
 ---
+title: "Evaluate Reasoning Models for Your Generative AI Solutions"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

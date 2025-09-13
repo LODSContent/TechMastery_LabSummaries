@@ -1,5 +1,7 @@
 ---
+title: "Fine-tune Phi Silica with your own data using LoRA adapters"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

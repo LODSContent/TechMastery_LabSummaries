@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Multimodal RAG with Zero Trust Part 1: Implementing Multimodal RAG"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

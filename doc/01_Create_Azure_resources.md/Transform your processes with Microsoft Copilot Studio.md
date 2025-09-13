@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Transform your processes with Microsoft Copilot Studio"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Understanding Medallion Architecture in Fabric with Lakehouse + Warehouse"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

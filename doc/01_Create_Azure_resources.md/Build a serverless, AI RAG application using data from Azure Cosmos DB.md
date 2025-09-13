@@ -1,5 +1,7 @@
 ---
+title: "Build a serverless, AI RAG application using data from Azure Cosmos DB"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

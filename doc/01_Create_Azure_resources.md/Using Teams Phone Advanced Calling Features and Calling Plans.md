@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Using Teams Phone Advanced Calling Features and Calling Plans"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

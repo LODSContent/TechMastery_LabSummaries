@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Building AI Apps with Azure Cosmos DB, Semantic Kernel and .NET Aspire"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

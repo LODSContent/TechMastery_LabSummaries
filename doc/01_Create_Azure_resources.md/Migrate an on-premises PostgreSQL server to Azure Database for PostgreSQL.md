@@ -1,5 +1,7 @@
 ---
+title: "Migrate an on-premises PostgreSQL server to Azure Database for PostgreSQL"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Develop Scalable Data Solutions with SQL Database in Microsoft Fabric"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

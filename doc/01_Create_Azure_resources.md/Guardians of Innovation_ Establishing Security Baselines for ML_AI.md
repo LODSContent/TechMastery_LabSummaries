@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Guardians of Innovation: Establishing Security Baselines for ML/AI"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

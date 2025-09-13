@@ -1,5 +1,7 @@
 ---
+title: "Integrate Azure Kubernetes Service apps with Active Directory"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

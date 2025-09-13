@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Build and Deploy AI Agents with MCP and Azure Functions"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

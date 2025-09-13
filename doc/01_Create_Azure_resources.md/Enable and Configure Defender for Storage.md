@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Enable and Configure Defender for Storage"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

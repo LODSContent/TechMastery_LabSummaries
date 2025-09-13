@@ -1,5 +1,7 @@
 ---
+title: "TechExcel: Fabric with Databricks for Data Analytics v2"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

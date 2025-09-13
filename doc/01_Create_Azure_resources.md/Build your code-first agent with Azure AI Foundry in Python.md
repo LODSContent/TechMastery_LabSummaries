@@ -1,5 +1,7 @@
 ---
+title: "Build your code-first agent with Azure AI Foundry in Python"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

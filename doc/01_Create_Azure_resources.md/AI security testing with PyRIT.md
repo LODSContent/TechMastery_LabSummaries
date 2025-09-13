@@ -1,5 +1,7 @@
 ---
+title: "AI security testing with PyRIT"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

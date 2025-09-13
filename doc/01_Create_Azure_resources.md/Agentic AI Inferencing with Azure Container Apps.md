@@ -1,5 +1,5 @@
 ---
-title: Test title
+title: "Agentic AI Inferencing with Azure Container Apps"
 layout: default
 nav_order:
 parent: 'Lab summaries'

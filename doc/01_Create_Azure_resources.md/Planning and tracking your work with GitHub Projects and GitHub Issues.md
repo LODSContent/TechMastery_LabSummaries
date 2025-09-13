@@ -1,5 +1,7 @@
 ---
+title: "Planning and tracking your work with GitHub Projects and GitHub Issues"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Building Microsoft Fabric Realtime Analytics"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

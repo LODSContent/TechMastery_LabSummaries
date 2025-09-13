@@ -1,5 +1,7 @@
 ---
+title: "Integrate AI functionality into PostgreSQL"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Hunting in Defender & Sentinel from Zero to hero"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

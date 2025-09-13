@@ -1,5 +1,7 @@
 ---
+title: "Generative AI with Azure SQL and REST Endpoints"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

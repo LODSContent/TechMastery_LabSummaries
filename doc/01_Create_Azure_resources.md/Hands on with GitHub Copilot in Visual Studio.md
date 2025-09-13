@@ -1,5 +1,7 @@
 ---
+title: "Hands on with GitHub Copilot in Visual Studio"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

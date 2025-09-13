@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Declarative Agents: Build Agents for Microsoft 365 Copilot"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

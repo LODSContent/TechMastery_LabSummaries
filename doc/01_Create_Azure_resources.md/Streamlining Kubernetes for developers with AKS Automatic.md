@@ -1,5 +1,7 @@
 ---
+title: "Streamlining Kubernetes for developers with AKS Automatic"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

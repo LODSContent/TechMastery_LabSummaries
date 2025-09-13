@@ -1,5 +1,7 @@
 ---
+title: "Build new AI applications with Azure SQL Database"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

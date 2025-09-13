@@ -1,5 +1,7 @@
 ---
+title: "Get real with Real-Time Intelligence to transform data into action"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

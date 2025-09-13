@@ -1,5 +1,7 @@
 ---
+title: "TE Extending Copilot for Microsoft 365"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

@@ -1,5 +1,7 @@
 ---
+title: "Build an Agentic App with PostgreSQL, GraphRAG, and Semantic Kernel"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

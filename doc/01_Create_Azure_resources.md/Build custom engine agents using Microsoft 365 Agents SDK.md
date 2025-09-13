@@ -1,5 +1,7 @@
 ---
+title: "Build custom engine agents using Microsoft 365 Agents SDK"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

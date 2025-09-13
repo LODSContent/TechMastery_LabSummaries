@@ -1,5 +1,7 @@
 ---
+title: "Migrate SQL Data using Azure SQL Managed Instance"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

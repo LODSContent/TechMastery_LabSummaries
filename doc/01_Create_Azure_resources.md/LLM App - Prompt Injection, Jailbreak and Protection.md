@@ -1,5 +1,7 @@
 ---
+title: "TechLab: LLM App - Prompt Injection, Jailbreak and Protection"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 

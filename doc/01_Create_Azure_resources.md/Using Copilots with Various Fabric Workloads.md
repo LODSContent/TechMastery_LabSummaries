@@ -1,5 +1,7 @@
 ---
+title: "TechLab: Using Copilots with Various Fabric Workloads"
 layout: default
+nav_order:
 parent: 'Lab summaries'
 ---
 
